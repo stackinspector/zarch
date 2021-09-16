@@ -1,3 +1,3 @@
 # Berylsoft Project Z
 
-A general-purpose solution for next-generation content platforms, designed for consistency and flexibility.
+Reserved for commemorative significance, more specifically, to document the some of the early history of the project. See [Zeon](https://github.com/Berylsoft/Zeon/).
